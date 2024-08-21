@@ -7,11 +7,11 @@ Programming Languages: Python
 Libraries: pandas, numpy, matplotlib, seaborn, etc.  
 Visualization Tools: Tableau
 ## Data Overview
-The raw data is collected from Kaggle, which can be found here. https://www.kaggle.com/datasets/tforsyth/99bikes-sales-data/data
-This dataset contains sales and customer data of one of Australia's largest retailers of bicycles named 99 Bikes. They sell everything bicycle-related, from accessories to clothing to helmets to even e-bikes.
-The datasets used include:
-•	Raw_data_99bikes.xlsx: This Excel file dataset included the following sheets of data:
-o	Transactions_data.xlsx: This dataset included the transactions data of the customers across all the different states in Australia.
-o	NewCustomerList.xlsx: This dataset included the new customers who visited the automobile bike company recently.
-o	CustomerDemographic.xlsx: This dataset included entire details of the Customer Demographics.
-o	CustomerAddress.xlsx: This dataset included the address of the Customers.
+The raw data is collected from Kaggle, which can be found <code>[here.](https://www.kaggle.com/datasets/tforsyth/99bikes-sales-data/data)</code>  
+This dataset contains sales and customer data of one of Australia's largest retailers of bicycles named 99 Bikes. They sell everything bicycle-related, from accessories to clothing to helmets to even e-bikes.  
+The datasets used include:  
+<code>[Raw_data_99bikes.xlsx:](https://github.com/Anokhi-hirsch/RFM-customer-segmentation-analysis/blob/main/raw_data_99bikes.xlsx)</code> This Excel file dataset included the following sheets of data:  
+o	Transactions_data.xlsx: Transactions data of the customers across all the different states in Australia.  
+o	NewCustomerList.xlsx: The list of the new customers who visited the automobile bike company recently.  
+o	CustomerDemographic.xlsx: Includes the entire details of the Customer Demographics.  
+o	CustomerAddress.xlsx: Address of the Customers.  
