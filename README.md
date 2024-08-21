@@ -57,8 +57,14 @@ The following insights were derived from the exploratory analysis of customer se
 
 </div>
 
-- **Wealth Segmentation by Age**: Across all age groups, the 'Mass Customer' segment has the highest representation, followed by 'High Net Worth' customers. However, in the 40-49 age group, the Affluent segment exceeds High Net Worth customers.
-  ![Wealth Segmentation by Age](path/to/wealth_segmentation_by_age.png)
+- **Wealth Segmentation by Age**: Across all age groups, the 'Mass Customer' segment has the highest representation, followed by 'High Net Worth' customers. However, in the 30-39 age group, the Affluent segment exceeds High Net Worth customers.
+  <div style="display: flex; justify-content: space-around;">
+
+  <img src="images/old%20customers%20wealth%20seg%20by%20age.jpg" alt="Image 1" style="width: 65%;"/>
+
+  <img src="images/new%20customers%20wealth%20seg%20by%20age.jpg" style="width: 65%;"/>
+
+</div>
 
 - **Cars Owned by State**: New South Wales has the most customers without cars, while Queensland has more car owners than non-owners. Victoria shows an even split.
-  ![Cars Owned by State](path/to/cars_owned_by_state.png)
+<img src="images/number%20of%20car%20owners.jpg" alt="Description of Image" style="width: 50%;"/>
