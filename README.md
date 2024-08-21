@@ -66,5 +66,5 @@ The following insights were derived from the exploratory analysis of customer se
 
 </div>
 
-- **Cars Owned by State**: New South Wales has the most customers without cars, while Queensland has more car owners than non-owners. Victoria shows an even split.
+- **Cars Owned by State**: New South Wales has the most customers without cars, while Victoria has more car owners than non-owners. Queensland shows an even split.
 <img src="images/number%20of%20car%20owners.jpg" alt="Description of Image" style="width: 50%;"/>
