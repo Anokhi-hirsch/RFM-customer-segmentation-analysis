@@ -29,3 +29,24 @@ Converted the 'product_first_sold_date' column from int64 to datetime format, ma
 
 - CustomerAddress.xlsx:  
 Standardized inconsistent data in the states column, identified and addressed customer IDs from the Customer Demographics table that were missing in the Address table.
+
+For a more detailed analysis and the complete code, please visit the Jupyter Notebook[ data cleaning & assessment](https://github.com/Anokhi-hirsch/RFM-customer-segmentation-analysis/blob/main/data_cleaning_%26_assessment.ipynb).
+
+### 2. Exploratory Data Analysis (EDA)
+
+The following insights were derived from the exploratory analysis of customer segments after data cleaning:
+
+- **Age Distribution (New vs. Old Customers)**: The majority of both New and Old customers fall within the 40-49 age group. The fewest customers are under 20 and over 80 years old. Notably, there’s a sharp decline in New customers in the 30-39 age group.
+  ![Age Distribution](https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images//initial-sales-analysis.jpg)
+
+- **Bike Purchases by Gender (Last 3 Years)**: Female customers dominate bike purchases, making up 51% of total purchases, surpassing males by 10,000 bikes.
+  ![Bike Purchases by Gender](images/bike_purchases_by_gender.png)
+
+- **Job Industry Distribution (New vs. Old Customers)**: Most New customers work in Manufacturing and Financial Services (~20%), while the least are in Agriculture and Telecom (~3%). Old customers follow a similar pattern.
+  ![Job Industry Distribution](path/to/job_industry_distribution.png)
+
+- **Wealth Segmentation by Age**: Across all age groups, the 'Mass Customer' segment has the highest representation, followed by 'High Net Worth' customers. However, in the 40-49 age group, the Affluent segment exceeds High Net Worth customers.
+  ![Wealth Segmentation by Age](path/to/wealth_segmentation_by_age.png)
+
+- **Cars Owned by State**: New South Wales has the most customers without cars, while Queensland has more car owners than non-owners. Victoria shows an even split.
+  ![Cars Owned by State](path/to/cars_owned_by_state.png)
