@@ -49,7 +49,13 @@ The following insights were derived from the exploratory analysis of customer se
 <img src="images/bike%20purchases%20by%20gender.jpg" alt="Description of Image" style="width: 50%;"/>
 
 - **Job Industry Distribution (New vs. Old Customers)**: Most New customers work in Manufacturing and Financial Services (~20%), while the least are in Agriculture and Telecom (~3%). Old customers follow a similar pattern.
-  ![Job Industry Distribution](path/to/job_industry_distribution.png)
+  <div style="display: flex; justify-content: space-around;">
+
+  <img src="images/old%20customers%20by%20job%20industry.jpg" alt="Image 1" style="width: 48%;"/>
+
+  <img src="images/new%20customers%20by%20job%20industry.jpg" style="width: 48%;"/>
+
+</div>
 
 - **Wealth Segmentation by Age**: Across all age groups, the 'Mass Customer' segment has the highest representation, followed by 'High Net Worth' customers. However, in the 40-49 age group, the Affluent segment exceeds High Net Worth customers.
   ![Wealth Segmentation by Age](path/to/wealth_segmentation_by_age.png)
