@@ -36,11 +36,17 @@ For a more detailed analysis and the complete code, please visit the Jupyter Not
 
 The following insights were derived from the exploratory analysis of customer segments after data cleaning:
 
-- **Age Distribution (New vs. Old Customers)**: The majority of both New and Old customers fall within the 40-49 age group. The fewest customers are under 20 and over 80 years old. Notably, there’s a sharp decline in New customers in the 30-39 age group.
-  ![Age Distribution](https://github.com/Anokhi-hirsch/sales-data-analysis/blob/main/dashboard-images//initial-sales-analysis.jpg)
+- **Age Distribution (New vs. Old Customers)**: The majority of both New and Old customers fall within the 50-65 age group. The fewest customers are under 30 and over 80 years old.
+  <div style="display: flex; justify-content: space-around;">
+
+  <img src="images/old%20customer%20age%20distribution.jpg" alt="Image 1" style="width: 45%;"/>
+
+  <img src="images/new%20customer%20age%20distribution.jpg" style="width: 45%;"/>
+
+</div>
 
 - **Bike Purchases by Gender (Last 3 Years)**: Female customers dominate bike purchases, making up 51% of total purchases, surpassing males by 10,000 bikes.
-  ![Bike Purchases by Gender](images/bike_purchases_by_gender.png)
+<img src="images/bike%20purchases%20by%20gender.jpg" alt="Description of Image" style="width: 50%;"/>
 
 - **Job Industry Distribution (New vs. Old Customers)**: Most New customers work in Manufacturing and Financial Services (~20%), while the least are in Agriculture and Telecom (~3%). Old customers follow a similar pattern.
   ![Job Industry Distribution](path/to/job_industry_distribution.png)
