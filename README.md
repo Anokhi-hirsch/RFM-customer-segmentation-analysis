@@ -17,6 +17,9 @@ The datasets used include:
 - CustomerAddress.xlsx: Address of the Customers.  
 ## Analysis Approach  
 ### 1. Data Cleaning and Preprocessing  
+
+For a detailed analysis and the complete code, please visit the Jupyter Notebook[ data cleaning & assessment](https://github.com/Anokhi-hirsch/RFM-customer-segmentation-analysis/blob/main/data_cleaning_%26_assessment.ipynb).
+
 Key Data Quality Issues Addressed:  
 - CustomerDemographics.xlsx:  
 Dropped unnecessary columns, addressed missing data in five columns by either dropping records or imputing appropriate values, standardized inconsistent data in the gender column, created 'Age' and 'Age Group' columns from the Date of Birth, an outlier was identified and removed.
@@ -30,9 +33,8 @@ Converted the 'product_first_sold_date' column from int64 to datetime format, ma
 - CustomerAddress.xlsx:  
 Standardized inconsistent data in the states column, identified and addressed customer IDs from the Customer Demographics table that were missing in the Address table.
 
-For a more detailed analysis and the complete code, please visit the Jupyter Notebook[ data cleaning & assessment](https://github.com/Anokhi-hirsch/RFM-customer-segmentation-analysis/blob/main/data_cleaning_%26_assessment.ipynb).
-
-### 2. Exploratory Data Analysis (EDA)
+### For detailed **EDA and the complete code for RFM calculations**, checkout [RFM Analysis](https://github.com/Anokhi-hirsch/RFM-customer-segmentation-analysis/blob/main/RFM%20Analysis.ipynb).
+### 2. Exploratory Data Analysis (EDA)  
 
 The following insights were derived from the exploratory analysis of customer segments after data cleaning:
 
