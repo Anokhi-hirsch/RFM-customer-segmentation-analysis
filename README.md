@@ -68,3 +68,33 @@ The following insights were derived from the exploratory analysis of customer se
 
 - **Cars Owned by State**: New South Wales has the most customers without cars, while Victoria has more car owners than non-owners. Queensland shows an even split.
 <img src="images/number%20of%20car%20owners.jpg" alt="Description of Image" style="width: 50%;"/>
+
+### 3. RFM Analysis and Customer Segmentation
+The RFM (Recency, Frequency, Monetary) analysis is a proven marketing model used to evaluate and segment customers based on their purchasing behavior. The RFM model categorizes customers into different segments to help identify their value to the business.  
+In this analysis the customers were segmented into 11 groups from RFM scores.
+<img src="images/customer%20segmentation.jpg" alt="Description of Image" style="width: 110%;"/>
+
+## Results
+### Tableau Dashboard
+An interactive Tableau dashboard for Customer Segmentation can be found <code>[here.](https://public.tableau.com/app/profile/anokhi.hirschelman/viz/CustomerSegmentationDashboard_17241957316530/RFMDashboard)</code>
+
+<img src="images/Tableau%20dashboard%20customer%20segmentation.jpg" alt="Description of Image" style="width: 110%;"/>
+
+### Insights  
+Based on RFM analysis, 11 customer segments were identified, each with tailored strategies:
+
+- **Platinum**: Reward, promote new products, leverage for brand advocacy.
+- **Very Loyal**: Upsell, request reviews, engage regularly.
+- **Becoming Loyal**: Offer loyalty programs, cross-sell.
+- **Recent**: Provide support, build early relationships.
+- **Potential**: Raise brand awareness, offer samples.
+- **Late Bloomers**: Use limited-time offers, reactivate with recommendations.
+- **Losing**: Reconnect with discounts, offer popular items.
+- **High Risk**: Personalize outreach, offer incentives.
+- **Almost Lost**: Re-engage with new products, prevent loss to competitors.
+- **Evasive**: Offer relevant discounts, rebuild brand connection.
+- **Lost**: Attempt to revive or let go.
+
+### Conclusion
+
+The RFM insights empower strategic marketing, enhancing customer satisfaction and driving sales growth. This project illustrates the value of data-driven segmentation for better business outcomes.
