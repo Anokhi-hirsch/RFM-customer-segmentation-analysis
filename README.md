@@ -7,10 +7,9 @@ Programming Languages: Python
 Libraries: pandas, numpy, matplotlib, seaborn, etc.  
 Visualization Tools: Tableau
 ## Data Overview
-The raw data is collected from Kaggle, which can be found <code>[here.](https://www.kaggle.com/datasets/tforsyth/99bikes-sales-data/data)</code>  
+The raw data is collected from Kaggle.  
 This dataset contains sales and customer data of one of Australia's largest retailers of bicycles named 99 Bikes. They sell everything bicycle-related, from accessories to clothing to helmets to even e-bikes.  
-The datasets used include:  
-<code>[Raw_data_99bikes.xlsx:](https://github.com/Anokhi-hirsch/RFM-customer-segmentation-analysis/blob/main/raw_data_99bikes.xlsx)</code> This Excel file dataset included the following sheets of data:  
+The datasets Excel file dataset included the following sheets of data:  
 - Transactions_data.xlsx: Transactions data of the customers across all the different states in Australia.  
 - NewCustomerList.xlsx: The list of the new customers who visited the automobile bike company recently.  
 - CustomerDemographic.xlsx: Includes the entire details of the Customer Demographics.  
